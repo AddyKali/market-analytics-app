@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pydantic
+pandas
+numpy
+dhanhq
+python-dotenv
