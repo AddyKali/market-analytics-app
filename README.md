@@ -3,22 +3,8 @@
 
 A full-stack web application that provides real-time stock market analytics with a modern UI and live data streaming using WebSockets.
 
-market-analytics-app/
-│
-├── backend/                     # FastAPI backend (Python)
-│   ├── app/                     # Main backend application code
-│   ├── venv/                    # Virtual environment (Don’t upload to GitHub)
-│   ├── requirements.txt         # Backend dependencies
-│   └── __pycache__/             # Auto-generated compiled files
-│
-└── frontend/                    # React + Vite frontend (JavaScript)
-    ├── src/                     # Components, Pages & Logic
-    ├── public/                  # Static assets
-    ├── node_modules/            # Dependency folder (auto-generated)
-    ├── package.json             # Frontend dependencies & scripts
-    ├── package-lock.json        # Dependency lock file
-    ├── vite.config.js           # Vite configuration
-    └── README.md (this file)
+<img width="677" height="425" alt="image" src="https://github.com/user-attachments/assets/2e3c7160-34a0-4aef-851a-b6d833885de0" />
+
 
 
 ▶ Backend Setup (FastAPI)
